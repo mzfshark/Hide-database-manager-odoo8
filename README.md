@@ -1,0 +1,1 @@
+# Hide-database-manager-odoo8
