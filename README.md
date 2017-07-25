@@ -1,1 +1,1 @@
-# Hide-database-manager-odoo8
+# Hide Database Link for odoo 8.0
